@@ -1,0 +1,4 @@
+.vercel
+.node_modules
+./note_modules
+/node_modules
